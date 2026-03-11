@@ -1,4 +1,4 @@
-# David Hoffmann – IT Security Specialist mit Schwerpunkt Pentesting und ehemaliger Softwareentwickler🔐
+# David Hoffmann – IT Security Specialist & Informationssicherheitsbeauftragter (ehemaliger Softwareentwickler)🔐
 
 # 👋 Hallo, ich bin David
 
