@@ -2,52 +2,64 @@
 
 # 👋 Hallo, ich bin David
 
-Derzeit bilde ich mich aktiv auf Plattformen wie **Hack The Box** und **TryHackMe** weiter, um realistische Szenarien durchzuspielen und meine Fähigkeiten in der offensiven Sicherheit gezielt zu erweitern. Ich führe im derzeitigen Unternehmen Penetrationstests durch und finde regelmäßig Lücken, die ich direkt im Anschluss schließe.  
-Mein Fokus liegt auf dem **Erkennen von Schwachstellen**, dem **gezielten Ausnutzen von Sicherheitslücken** sowie der **Entwicklung präventiver Abwehrstrategien**.
+Derzeit bilde ich mich aktiv auf Plattformen wie Hack The Box weiter, um realistische Szenarien durchzuspielen und meine Fähigkeiten in der offensiven Sicherheit gezielt zu erweitern. In meinem derzeitigen Unternehmen führe ich Penetrationstests durch, identifiziere regelmäßig Sicherheitslücken und kümmere mich anschließend auch um deren Behebung.
 
+Neben dem technischen Bereich der offensiven Sicherheit bin ich zudem in organisatorische und strategische Sicherheitsthemen eingebunden. Dazu gehört insbesondere die Mitarbeit am Information Security Management System (ISMS) sowie die Unterstützung bei ISO 27001-Audits, bei denen ich an der Vorbereitung, Dokumentation und Umsetzung von Sicherheitsanforderungen mitwirke.
 
 
 ## 🛡️ Zertifizierungen
 
 Ich bin bestrebt, mein Wissen durch fundierte Aus- und Weiterbildungen zu vertiefen und habe bereits folgende Zertifikate erworben:
 
-- **Informationssicherheitsbeauftragter (TÜV)** nach **ISO 27001**
-- **eJPT (eLearnSecurity Junior Penetration Tester)**
-- **eCPPT (eLearnSecurity Certified Professional Penetration Tester)**
+- **Cisco CCNA**
+- **Informationssicherheitsbeauftragter (TÜV) nach ISO 27001**
+- **INE eJPT (Junior Penetration Tester)**
+- **INE eCPPT (Certified Professional Penetration Tester)**
 
 
 ### 🔜 Geplante Zertifizierungen
-- **CEH** – Certified Ethical Hacker   
+- **HTB CWES** – Certified Web Exploitation Specialist
+- **HTB CPTS** – Certified Penetration Testing Specialist
 - **OSCP** – Offensive Security Certified Professional  
 - **OSEP** – Offensive Security Experienced Penetration Tester  
 - **OSWE** – Offensive Security Web Expert  
-- **CISSP** – Certified Information Systems Security Professional  
+- **CISSP** – Certified Information Systems Security Professional
+- **CISM** – Certified Information Security Manager  
 - **ISO 27001 Auditor**
+- **ISO 27001 Implementor**
 
 ---
 
 ## 🎯 Meine Schwerpunkte
 
-- **Web Application Security**  
-  Analyse und Absicherung von Webanwendungen auf Basis der **OWASP Top 10** sowie weiterführender Schwachstellen
+🔐 Offensive Security
 
-- **Network Pentesting**  
-  Scannen, Enumeration, Exploitation, uvm. von internen und externen Netzwerken und Diensten
+Social Engineering & Phishing
+Analyse menschlicher Schwachstellen sowie Durchführung und Bewertung von Phishing-Szenarien und Social-Engineering-Angriffen.
 
-- **Active Directory Security**  
-  Durchführung von diversen Angriffen wie **Kerberoasting**, **Pass-the-Hash**, **Privilege Escalation** und vieles mehr.
+Active Directory Pentests
+Identifikation und Ausnutzung von Schwachstellen in Active-Directory-Umgebungen, z. B. durch Angriffe wie Kerberoasting, Pass-the-Hash, Privilege Escalation und Fehlkonfigurationen.
 
-- **Exploit Development**  
-  Entwicklung von Proof-of-Concepts auf binary ebene.
+Netzwerk-Pentests (intern & extern)
+Sicherheitsanalysen von internen und externen Netzwerken inklusive Scanning, Enumeration, Exploitation und Bewertung der Sicherheitsarchitektur.
 
-- **Social Engineering**  
-  Analyse und Verständnis menschlicher Schwachstellen und Manipulationstechniken
+Web Application Security
+Analyse und Absicherung von Webanwendungen auf Basis der OWASP Top 10 sowie weiterführender Schwachstellen.
 
-- **Password Attacks**  
-  Brute-Force, Password Spraying und Hash Cracking
 
-- **Red Teaming**  
-  Simulation realistischer Angriffe inklusive Persistenztechniken (MITRE ATT&CK)
+🛡️ Governance, Risk & Compliance (GRC)
+
+ISO 27001 Audits
+Unterstützung bei der Vorbereitung, Durchführung und Nachbereitung von Audits sowie Umsetzung der Anforderungen.
+
+BSI-Grundlagen
+Anwendung und Verständnis von IT-Grundschutz-Prinzipien und Sicherheitsstandards.
+
+ISMS Aufbau & Verwaltung
+Mitwirkung beim Aufbau, der Pflege und Weiterentwicklung eines Information Security Management Systems (ISMS).
+
+IT-Sicherheitsberatung
+Beratung zu technischen Sicherheitsmaßnahmen sowie zu Governance-, Risiko- und Compliance-Anforderungen
 
 ---
 
@@ -60,10 +72,9 @@ Ich nehme aktiv an **CTF-Plattformen** wie **Hack The Box** teil, um:
 - meine Fortschritte zu dokumentieren  
 - eigene Sicherheitsprojekte zu entwickeln
 
+Zusätzlich erweitere ich mein Wissen kontinuierlich durch Fachzertifizierungen im Bereich IT-Sicherheit, um meine praktischen Fähigkeiten strukturiert auszubauen und aktuelle Standards sowie Best Practices der Branche zu vertiefen.
+
 ---
-
-> Mein Ziel ist es, Sicherheitslücken nicht nur zu finden, sondern nachhaltige Lösungen zu schaffen durch fundiertes Wissen, praktische Erfahrung und kontinuierliche Weiterbildung.
-
 
 ## 🔧 Programmierung:
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
@@ -93,9 +104,9 @@ Ich nehme aktiv an **CTF-Plattformen** wie **Hack The Box** teil, um:
 - **Phishing, Social engineering**
 
 ### 📋 ISMS (Informationssicherheits-Management):
-- **ISO/IEC 27001 Umsetzung**
+- **ISO 27001 Umsetzung**
 - **Sicherheitsrichtlinien & Dokumentation**
+- **Risikoanalyse**
 - **Awareness-Schulungen & Sicherheitskultur**
 - **Grundlagen interner Audits & Vorbereitung externer Prüfungen**
-- **Compliance & Datenschutz (z. B. DSGVO)**
 - **Ganzheitliches Verständnis von ISMS-Strukturen und -Abläufen**
